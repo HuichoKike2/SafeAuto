@@ -1,0 +1,30 @@
+﻿<div class="row">
+    <div class="col-md-12">
+        <form enctype="multipart/form-data" id="frmSubirArchivo" method="post">
+            <!--action="SafeAuto/LoadFile"-->
+            <center>
+                <div style="margin-top: 20px" class="col-md-12">
+                    <label>Cargar Archivo</label>
+                </div>
+            </center>
+            <center>
+                <div class="row">
+                    <div class="col-md-1">
+                        <label>Archivo: </label>
+                    </div>
+                    <div class="col-md-5">
+                        <input type="file" placeholder="Seleccionar Archivo" name="file" id="file" accept=".txt" required />
+                    </div>
+                    <div class="col-md-6">
+                        <!--<button style="margin-top: 0px; padding-bottom: 5px; width: 120px; height: 22px" type="submit">Subir archivo</button>-->
+                        <button style="margin-top: 0px; padding-bottom: 5px; width: 120px; height: 22px" type="button" onclick="return loadFile()">Subir archivo</button>
+                    </div>
+                </div>
+            </center>
+        </form>
+    </div>
+
+    <div class="row" id="result"></div>
+</div>
+<script src="~/Scripts/Index.js"></script>
+

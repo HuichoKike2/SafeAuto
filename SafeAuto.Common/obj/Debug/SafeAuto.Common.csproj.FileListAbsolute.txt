@@ -1,0 +1,6 @@
+C:\Users\enriq\source\repos\SafeAuto\SafeAuto.Common\bin\Debug\SafeAuto.Common.dll
+C:\Users\enriq\source\repos\SafeAuto\SafeAuto.Common\bin\Debug\SafeAuto.Common.pdb
+C:\Users\enriq\source\repos\SafeAuto\SafeAuto.Common\obj\Debug\SafeAuto.Common.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\SafeAuto\SafeAuto.Common\obj\Debug\SafeAuto.Common.dll
+C:\Users\enriq\source\repos\SafeAuto\SafeAuto.Common\obj\Debug\SafeAuto.Common.pdb
+C:\Users\enriq\source\repos\SafeAuto\SafeAuto.Common\obj\Debug\SafeAuto.Common.csprojAssemblyReference.cache
